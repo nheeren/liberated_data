@@ -10,8 +10,9 @@ Chastas, P., T. Theodosiou, and D. Bikas. 2016. Embodied energy in residential b
   - WPD JSON project file (folder [WPD_Fig8](WPD_Fig8))
   - CSV exported from WPD with manual corrections (file [Fig8.csv](Fig8.csv))
     - id: serial ID column, corresponding to figure's case study number minus one
-    - red: red data column, i.e. "Embodied Energy"
-    - darkgrey: dark grey data column, i.e. "Operating Energy"
+    - name: the original name from the publication
+    - OE: dark grey data column, i.e. "Operating Energy"
+    - EE: red data column, i.e. "Embodied Energy"
 - Steps:
   - Extracted only red and dark grey bars, because the light grey bar is their sum
   - Automatic "Bar Extraction" algorithm in WPD 

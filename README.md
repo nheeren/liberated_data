@@ -35,7 +35,7 @@ The project files of the software that was used for extracting the data. This co
 
 ### Data file
 
-The final CSV file with the raw data. This file should be formatted in a way that the original figure / data can be reproduced effortlessly with any software, e.g. as Excel.
+The final CSV file with the raw data. This file should be formatted in a way that the original figure / data can be reproduced effortlessly with any software, e.g. as Excel. Consider adding a serial ID column for easier referencing.
 
 ## Resources
 
