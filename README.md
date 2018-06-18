@@ -37,6 +37,8 @@ The project files of the software that was used for extracting the data. This co
 
 The final CSV file with the raw data. This file should be formatted in a way that the original figure / data can be reproduced effortlessly with any software, e.g. as Excel. Consider adding a serial ID column for easier referencing.
 
+Finally add the data contribution to [overview.md](overview.md) in alphabetical order.
+
 ## Resources
 
 - [WebPlotDigitizer](https://apps.automeris.io/wpd/) (WPD) an excellent tool that provides a number of utilities to manually and automatically extract data from plots and figures
