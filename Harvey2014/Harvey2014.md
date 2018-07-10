@@ -10,7 +10,7 @@ Danny Harvey L.D., K. Korytarova, O. Lucon, V. Roshchanka. 2014. Construction of
   - WPD JSON project file (folder [WPD_Fig3](WPD_Fig3))
   - CSV exported from WPD with manual corrections (file [Fig3.csv](Fig3.csv))
     - region : the 10 different regions defined in the article
-	- residential : blue data column, residential building per capita floor area (m^2)
+    - residential : blue data column, residential building per capita floor area (m^2)
     - commercial : red data column, commercial building per capita floor area (m^2)
 - Steps:
   - "Add points" tool to extract bars value
