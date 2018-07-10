@@ -10,7 +10,7 @@ The following publications are included in this repository.
   - Figure 5: Change in mean US residential building lifetime, 1997–2009, years.
 - [Harvey et al. 2014](Harvey2014/Harvey2014.md). "Construction of a global disaggregated dataset of building energy use and floor area in 2010"
   - Figure 3: Per capita residential and commercial floor areas resulting from the preferred choice of total floor areas, 2010, m^2.
-- [O'Connor et al. 2004](OConnor2004/OConnor2004.md). "Survey on actual service lives for North American buildings"
+- [O'Connor 2004](OConnor2004/OConnor2004.md). "Survey on actual service lives for North American buildings"
   - Figure 1: Average expected service life for non-residential buildings by primary structural material, 2004, years.
 
 
