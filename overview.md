@@ -1,4 +1,4 @@
-# Contents
+﻿# Contents
 
 The following publications are included in this repository.
 
@@ -10,6 +10,8 @@ The following publications are included in this repository.
   - Figure 5: Change in mean US residential building lifetime, 1997–2009, years.
 - [Harvey et al. 2014](Harvey2014/Harvey2014.md). "Construction of a global disaggregated dataset of building energy use and floor area in 2010"
   - Figure 3: Per capita residential and commercial floor areas resulting from the preferred choice of total floor areas, 2010, m^2.
+- [Liu et al. 2012](Liu2012/Liu2012.md). "Stock dynamics and emission pathwaysof the global aluminium cycle"
+  - Figure S7: Collection rates of different aluminium obsolete products from GARC experts’ estimation, 1950-2009 from (GARC 2011) and values before 1950 are assumed as the same in 1950.
 - [O'Connor 2004](OConnor2004/OConnor2004.md). "Survey on actual service lives for North American buildings"
   - Figure 1: Average expected service life for non-residential buildings by primary structural material, 2004, years.
 
