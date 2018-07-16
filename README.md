@@ -47,6 +47,6 @@ Finally add the data contribution to [overview.md](overview.md) in alphabetical 
 ## TODO
 
 - [ ] Provide or link to a tutorial on data extraction
-- [ ] Offer more guidance on required documentation
-- [ ] Develop a mandatory header for the description files in order to facilitate automated processing of this repo
-- [ ] Introduce an optional qualitative score that reflects the confidence of the data contributor in the correctness of the data (e.g. "excellent" for "authors provided data")
+- [ ] Offer more guidance on required documentation
+- [ ] Develop a mandatory header for the description files in order to facilitate automated processing of this repo
+- [ ] Introduce an optional qualitative score that reflects the confidence of the data contributor in the correctness of the data (e.g. "excellent" for "authors provided data")
